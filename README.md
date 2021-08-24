@@ -9,6 +9,10 @@ This is the link for EV embedded task 2021
 - CPU freq. is 8MHZ
 - Baud rate is 9600
 
+## Video Link for the simulation
+
+https://drive.google.com/file/d/1b0h4LXch_2QwMbKKNLG2ew9Xcj7uGKet/view?usp=sharing
+
 ## Installation guide
 
 - Clone the repo.
