@@ -12,5 +12,5 @@ This is the link for EV embedded task 2021
 ## Installation guide
 
 - Clone the repo.
-- Add .elf files in (/ECO_ATMEGA32_RX/Debug) and in (/ECO_ATMEGA32_TX/Debug)
+- Add .elf files in (/ECO_ATMEGA32_RX/Debug) and in (/ECO_ATMEGA32_TX/Debug) into proteus.
 - Enjoy :)
